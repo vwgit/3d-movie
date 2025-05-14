@@ -3,7 +3,9 @@
 ## Topic: Modeling an Object in Three-Dimensional Space
 
 **Educational Institution:** NON-PROFIT JOINT STOCK COMPANY "KARAGANDA TECHNICAL UNIVERSITY NAMED AFTER ABYLKAS SAGINOV", Department of Information and Computing Systems
+
 **Discipline:** 3D-Modeling
+
 **Year:** 2025
 
 ## Project Description
