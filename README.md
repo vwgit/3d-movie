@@ -8,6 +8,10 @@
 
 **Year:** 2025
 
+**Link to the finished edited rendered video on the Vimeo platform:**  *https://vimeo.com/1084306897/387012bce5?share=copy*
+
+**Link to source material, file archives and individual videos for each scene:** *https://drive.google.com/drive/folders/1y-xtf1jnfXK9dguRxGtD2qiptcPjcM0r?usp=sharing*
+
 ## Project Description
 
 This repository contains a course project for the "3D-Modeling" discipline. The aim of the project is to develop a three-dimensional model of the "Qazaq Air" airline logo and create a short animated video based on it using Autodesk 3ds Max software.
